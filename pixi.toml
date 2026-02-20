@@ -1,0 +1,14 @@
+[workspace]
+channels = ["conda-forge"]
+name = "continuous-dems.github.io"
+platforms = ["linux-64", "osx-64", "win-64"]
+version = "0.1.0"
+
+[tasks.render]
+cmd = "myst build --strict --html"
+
+[tasks.preview]
+cmd = "myst start"
+
+[dependencies]
+mystmd = ">=1.8.1,<2"

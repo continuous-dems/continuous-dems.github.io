@@ -1,0 +1,26 @@
+version: 1
+
+project:
+  title: "Continuous DEMs"
+  description: "Where community members new and old align on objectives and practices"
+  github: "https://github.com/continuous-dems/continuous-dems.github.io"
+  license: "MIT"
+  exclude:
+    - "_*"
+    - "README.md"
+  toc:
+    - file: "index.md"
+
+site:
+  template: "book-theme"
+  nav: []
+  actions:
+    - title: "View source"
+      url: "https://github.com/continuous-dems/continuous-dems.github.io"
+  options:
+    folders: true
+    style: "assets/styles/style.css"
+    # favicon: favicon.ico
+    # logo: site_logo.png
+    logo_text: "Continuous DEMs"
+    hide_footer_links: true

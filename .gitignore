@@ -1,0 +1,9 @@
+# Feed files
+*.xml
+
+# pixi environments
+.pixi
+*.egg-info
+
+# MyST build outputs
+_build
