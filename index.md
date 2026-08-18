@@ -29,7 +29,7 @@ Quickly fetch and download global DEM datasets.
 
 :::{grid-item-card} 🌍 Globato
 :link: projects/globato.md
-Genrate DEMs
+Generate DEMs
 :::
 
 :::{grid-item-card} 🔄 Transformez
@@ -48,6 +48,6 @@ Validate DEMs
 
 Beyond our codebases, this compass serves as the central hub for how our team operates. Explore the sections below to get involved:
 
-*   **[Community Compass](https://continuous-dems-communit-compass.readthedocs.io):** A deeper dive into our community guidelines and roadmap.
+*  **[Community Compass](https://continuous-dems-communit-compass.readthedocs.io):** A deeper dive into our community guidelines and roadmap.
 
 :::::

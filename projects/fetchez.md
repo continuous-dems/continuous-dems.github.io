@@ -39,7 +39,7 @@ files = fetchez.get("charts", region=[-120, -118, 33, 34], hooks=['unzip', 'file
 ```
 
 
-### Define resusable YAML data Bundles:
+### Define reusable YAML data Bundles:
 
 ```yaml
 name: grav_and_bath
