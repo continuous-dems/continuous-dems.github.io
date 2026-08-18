@@ -43,6 +43,6 @@ Validate DEMs
 ## 💫 Beyond the Code:
 
 *  **[Community Compass](https://continuous-dems-community-compass.readthedocs.io):** A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections below to get involved!
-*  **[Zulip Chatspace](https://cudem.zuplichat.com):** Join our Zulip community chat space! Join the discussions about DEMs and the tools we use to make them.
+*  **[Zulip Chatspace](https://cudem.zulipchat.com):** Join our Zulip community chat space! Join the discussions about DEMs and the tools we use to make them.
 
 :::::
