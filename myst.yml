@@ -2,8 +2,8 @@ version: 1
 
 project:
   title: "Continuous-DEMs"
-  description: "Where community members new and old align on objectives and practices"
-  github: "https://github.com/continuous-dems/community-compass"
+  description: "The Continuous DEMs Landing"
+  github: "https://github.com/continuous-dems/"
   license: "MIT"
   exclude:
     - "_*"
