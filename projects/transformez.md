@@ -11,7 +11,7 @@
 [ [Releases on PyPi](https://pypi.org/project/transformez) ]
 [ [Releases on Conda-Forge](https://anaconda.org/conda-forge/transformez) ]
 [ [Source on Github](https://github.com/continuous-dems/transformez) ]
-[ [Zulip Chat](https://cudem.zulipchat.com/#narrow/channel/560691-Transformez) ]
+[ [Zulip Chat](https://cudem.zulipchat.com/#narrow/channel/562904-Transformez) ]
 
 ::::
 

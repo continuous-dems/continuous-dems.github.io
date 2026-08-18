@@ -11,7 +11,7 @@
 [ [Releases on PyPi](https://pypi.org/project/globato) ]
 [ [Releases on Conda-Forge](https://anaconda.org/conda-forge/globato) ]
 [ [Source on Github](https://github.com/continuous-dems/globato) ]
-[ [Zulip Chat](https://cudem.zulipchat.com/#narrow/channel/560691-Globato) ]
+[ [Zulip Chat](https://cudem.zulipchat.com/#narrow/channel/568984-GLOBATO) ]
 
 ::::
 
