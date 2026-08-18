@@ -1,3 +1,39 @@
 body {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+html.dark header img,
+html.dark .theme-logo img,
+html.dark [class*="logo"] img {
+    background-color: transparent !important;
+    background: none !important;
+}
+
+main, article, .prose {
+    max-width: 100% !important;
+}
+
+/* Expand the landing page grid to full width */
+.landing-page-layout {
+    width: 90vw;
+    max-width: 1400px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.1rem;
+}
+
+.welcome-section-layout {
+    display: grid;
+    place-items: center;
+    line-height: 1.6; /* 1.6 times the current font size */
+    font-size: 1.1rem;
+}
+
+.project-page-layout {
+    width: 90vw;
+    max-width: 1400px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }

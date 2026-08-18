@@ -1,26 +1,33 @@
 version: 1
 
 project:
-  title: "Continuous DEMs"
-  description: "Where community members new and old align on objectives and practices"
-  github: "https://github.com/continuous-dems/continuous-dems.github.io"
+  title: "Continuous-DEMs"
+  description: "The Continuous DEMs Landing"
+  github: "https://github.com/continuous-dems/"
   license: "MIT"
   exclude:
     - "_*"
     - "README.md"
   toc:
     - file: "index.md"
+    - title: "Projects"
+      children:
+        - pattern: "projects/*.md"
 
 site:
   template: "book-theme"
   nav: []
   actions:
+    - title: "GitHub Organization"
+      url: "https://github.com/continuous-dems"
+    - title: "Zulip Chat"
+      url: "https://cudem.zulipchat.com/"
     - title: "View source"
-      url: "https://github.com/continuous-dems/continuous-dems.github.io"
+      url: "https://github.com/continuous-dems.github.io/"
   options:
     folders: true
     style: "assets/styles/style.css"
     # favicon: favicon.ico
-    # logo: site_logo.png
-    logo_text: "Continuous DEMs"
+    logo: assets/images/continuous_dems_logo_mini.svg
+    logo_text: "Continuous-DEMs"
     hide_footer_links: true
