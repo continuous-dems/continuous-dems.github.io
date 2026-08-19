@@ -37,3 +37,8 @@ main, article, .prose {
     left: 50%;
     transform: translateX(-50%);
 }
+
+/* Sets a strict fixed height */
+.fixed-height-card {
+    min-height: 250px;
+}
