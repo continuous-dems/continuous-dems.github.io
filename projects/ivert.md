@@ -30,12 +30,12 @@ ICESat-2 Validation of Elevations Reporting Tool
 $ ivert setup
 
 # 2. Download ICESat-2 photon data for your area (bounding box in W/E/S/N order):
-$ ivert database download -- -74.0/-73.0/40.5/41.0
+$ ivert database download -- -82.6/-82.5/27.25/27.35
 
 # 3. Validate your DEM:
-$ ivert validate mydem.tif
+$ ivert validate sarasota_dem.tif -n "Sarasota, FL"
 
-# 4. Check the output directory for mydem_results.h5, a validation plot (.png), and error exports (.tif, .gpkg).
+# 4. Check the output directory for sarasota_dem_results.h5, a validation plot (.png), and error exports (.tif, .gpkg).
 ```
 
 ![Ivert Results Sample](/assets/images/sarasota_ivert_plot.png)
