@@ -18,17 +18,17 @@ We build and maintain an ecosystem of open-source projects dedicated to processi
 
 :::{grid-item-card} 📥 Fetchez
 :link: projects/fetchez.md
-Quickly fetch and download global DEM datasets.
+Fetch, download and process geospatial datasets.
+:::
+
+:::{grid-item-card} 🔄 Transformez
+:link: projects/transformez.md
+Transform and reproject DEMs.
 :::
 
 :::{grid-item-card} 🌍 Globato
 :link: projects/globato.md
 Generate DEMs
-:::
-
-:::{grid-item-card} 🔄 Transformez
-:link: projects/transformez.md
-Transform and reproject DEM data seamlessly.
 :::
 
 :::{grid-item-card} 🏔️ Ivert
@@ -42,7 +42,15 @@ Validate DEMs
 
 ## 💫 Beyond the Code:
 
-*  **[Community Compass](https://continuous-dems-community-compass.readthedocs.io):** A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections below to get involved!
-*  **[Zulip Chatspace](https://cudem.zulipchat.com):** Join our Zulip community chat space! Join the discussions about DEMs and the tools we use to make them.
+:::{grid-item-card}Community Compass
+:link: https://continuous-dems-community-compass.readthedocs.io
+A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections below to get involved!
+:::
+
+
+:::{grid-item-card}Zulip Chatspace
+:link: https://cudem.zulipchat.com
+Join our Zulip community chat space! Join the discussions about DEMs and the tools we use to make them.
+:::
 
 :::::
