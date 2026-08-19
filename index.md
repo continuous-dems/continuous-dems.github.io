@@ -8,7 +8,7 @@
 **Welcome to the Continuous DEMs Landing!**
 ::::
 
-Continuous DEMs provides open-source tools for fetching, transforming, and processing Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place.
+Continuous DEMs provides open-source tools for fetching, transforming, processing and validating Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place.
 
 The following projects are the Continuous-DEMs core libraries and tools, choose a project below to learn more about it.
 
@@ -52,7 +52,7 @@ A deeper dive into our community guidelines and roadmap. This compass serves as 
 
 :::{grid-item-card}Zulip Chatspace
 :link: https://cudem.zulipchat.com
-Join our Zulip community chat space! Join the discussions about DEMs and the tools we use to make them.
+Join our Zulip community chat space to participate in the discussions about DEMs and the tools we use to make them!
 :::
 
 :::::
