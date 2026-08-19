@@ -5,10 +5,12 @@
 
 ::::{div}
 :class: welcome-section-layout
-**Welcome to the Continuous DEMs landing page!**
-
-We build and maintain an ecosystem of open-source projects dedicated to processing Digital Elevation Models (DEMs). Our vision is to cultivate a thriving open-source community around high-accuracy elevation modeling. Whether you are looking for the right tool for your DEM pipeline or want to contribute to our ecosystem, you are in the right place.
+**Welcome to the Continuous DEMs Landing!**
 ::::
+
+Continuous DEMs provides open-source tools for fetching, transforming, and processing Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place.
+
+The following projects are the Continuous-DEMs core libraries and tools, choose a project below to learn more about it.
 
 ---
 
@@ -44,7 +46,7 @@ Validate DEMs
 
 :::{grid-item-card}Community Compass
 :link: https://continuous-dems-community-compass.readthedocs.io
-A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections below to get involved!
+A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections in the compass and get involved!
 :::
 
 
