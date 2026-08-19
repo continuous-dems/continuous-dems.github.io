@@ -13,7 +13,7 @@
 :gutter: 2
 
 :::{card}
-:link: https://ivert.readthedocs.io
+:link: https://github.com/continuous-dems/ivert
 :class: p-2 text-center hover:bg-slate-50 border rounded transition-all cursor-pointer select-none no-underline block
 :class-body: p-0 m-0 flex flex-col items-center justify-center gap-1 no-underline
 
