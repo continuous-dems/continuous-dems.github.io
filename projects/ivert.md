@@ -25,7 +25,8 @@ ICESat-2 Validation of Elevations Reporting Tool
 
 ```console
 # 1. Set up IVERT's data directories and credentials (run once on a new machine)
-# This creates the local ~/.ivert data directories and checks your ~/.netrc for NASA Earthdata Login credentials, offering to save them if they are not already present. Earthdata credentials are required to download ICESat-2 data (register for a free account).
+# This creates the local ~/.ivert data directories and checks your ~/.netrc for NASA Earthdata Login credentials, offering to save them if they are not already present.
+# Earthdata credentials are required to download ICESat-2 data (register for a free account).
 $ ivert setup
 
 # 2. Download ICESat-2 photon data for your area (bounding box in W/E/S/N order):
