@@ -23,7 +23,7 @@ site:
     - title: "Zulip Chat"
       url: "https://cudem.zulipchat.com/"
     - title: "View source"
-      url: "https://github.com/continuous-dems.github.io/"
+      url: "https://github.com/continuous-dems/continuous-dems.github.io/"
   options:
     folders: true
     style: "assets/styles/style.css"
