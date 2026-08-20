@@ -16,7 +16,7 @@ The following projects are the Continuous-DEMs core libraries and tools, choose 
 
 ## 🛠️ Projects
 
-::::{grid} 2
+::::{grid} 1 2 3 4
 
 :::{grid-item-card} 📥 Fetchez
 :link: projects/fetchez.md
@@ -44,6 +44,7 @@ Validate DEMs
 
 ## 💫 Beyond the Code:
 
+::::{grid} 2
 :::{grid-item-card}Community Compass
 :link: https://continuous-dems-community-compass.readthedocs.io
 A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections in the compass and get involved!
@@ -53,6 +54,16 @@ A deeper dive into our community guidelines and roadmap. This compass serves as 
 :::{grid-item-card}Zulip Chatspace
 :link: https://cudem.zulipchat.com
 Join our Zulip community chat space to participate in the discussions about DEMs and the tools we use to make them!
+:::
+
+:::{grid-item-card}Examples and Gallery
+:link: examples/index.md
+Learn about our eco-system through practical examples and by viewing our product gallery of products derived or developed using Continuous-DEMs projects.
+:::
+
+:::{grid-item-card}Tutorials and Workshops
+:link: tutorials/index.md
+Discover project-specific and eco-system-wide tutorials and find information about past and future workshops.
 :::
 
 :::::
