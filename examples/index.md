@@ -21,5 +21,14 @@
 CRM of San Diego, California, built with [Globato](/projects/globato.md).
 :::
 
+:::{grid-item-card} Wrangell, AK DEM
+:link: hs/nthmp_wrangell_ak_mhhw_v1_2026_hillshade.png
+```{image} hs/nthmp_wrangell_ak_mhhw_v1_2026_hillshade.png
+:width: 100%
+:align: center
+```
+Hillshade of Wrangell, Alaska, built with [Globato](/projects/globato.md).
+:::
+
 ::::
 :::::
