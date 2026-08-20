@@ -13,6 +13,12 @@ project:
     - title: "Projects"
       children:
         - pattern: "projects/*.md"
+    - title: "Tutorials"
+      children:
+        - pattern: "tutorials/*.md"
+    - title: "Examples"
+      children:
+        - pattern: "examples/*.md"
 
 site:
   template: "book-theme"
