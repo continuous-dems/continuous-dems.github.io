@@ -1,17 +1,17 @@
-# Examples and Gallery
-
 :::::{div}
 :class: landing-page-layout
 
 ::::{div}
 :class: welcome-section-layout
-# **Examples and Product Gallery**
+# **Project Showcase**
 
+Explore the capabilities of our ecosystem through practical examples, visual galleries, and real-world products derived from Continuous DEMs tools.
 ::::
 
 ---
 
-::::{grid} 1 2 3 4
+::::{grid} 1 1 2 2
+
 :::{grid-item-card} CRM of San Diego CA
 :link: /assets/images/san_diego_crm.png
 ```{image} /assets/images/san_diego_crm.png

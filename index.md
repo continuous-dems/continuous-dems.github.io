@@ -46,25 +46,25 @@ Validate DEMs
 ## 🌐 Community:
 
 ::::{grid} 2
-:::{grid-item-card}Community Compass
+:::{grid-item-card} 🧭 Community Compass
 :link: https://continuous-dems-community-compass.readthedocs.io
 A deeper dive into our community guidelines and roadmap. This compass serves as the central hub for how our team operates. Explore the sections in the compass and get involved!
 :::
 
 
-:::{grid-item-card}Zulip Chatspace
+:::{grid-item-card} 💬 Zulip Chatspace
 :link: https://cudem.zulipchat.com
 Join our Zulip community chat space to participate in the discussions about DEMs and the tools we use to make them!
 :::
 
-:::{grid-item-card}Examples and Gallery
+:::{grid-item-card} 🖼️ Project Showcase
 :link: examples/index.md
-Learn about our eco-system through practical examples and by viewing our product gallery of products derived or developed using Continuous-DEMs projects.
+Explore the capabilities of our ecosystem through practical examples, visual galleries, and real-world products derived from Continuous DEMs tools.[cite: 7]
 :::
 
-:::{grid-item-card}Tutorials and Workshops
-:link: tutorials/index.md
-Discover project-specific and eco-system-wide tutorials and find information about past and future workshops.
+:::{grid-item-card} 📢 Outreach & Events
+:link: outreach/index.md
+Discover how our community connects. Find resources from past workshops, read community reports, and see where we are presenting next.
 :::
 
 :::::
