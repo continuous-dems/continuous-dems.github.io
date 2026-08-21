@@ -22,5 +22,10 @@ Scientists from NOAA’s National Centers for Environmental Information (NCEI) a
 This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets.
 :::
 
+:::{grid-item-card} CSSP DEM  Workshop
+:link: /assets/images/CSSP_DEM_Workshop_Report.pdf
+This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets, held in Victoria,  Britsh Columbia, Canada.
+:::
+
 ::::
 :::::
