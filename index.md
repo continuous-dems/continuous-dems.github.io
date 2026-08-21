@@ -5,6 +5,7 @@
 
 ::::{div}
 :class: welcome-section-layout
+<!-- ![banner](/assets/images/continous_dems_banner.png) -->
 **Welcome to the Continuous DEMs Landing!**
 ::::
 
@@ -42,7 +43,7 @@ Validate DEMs
 
 ---
 
-## 💫 Beyond the Code:
+## 🌐 Community:
 
 ::::{grid} 2
 :::{grid-item-card}Community Compass
