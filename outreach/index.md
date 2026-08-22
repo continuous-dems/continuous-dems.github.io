@@ -14,17 +14,17 @@ Welcome to the Continuous DEMs outreach hub. Here you can find resources from ou
 
 :::{card} NOAA NCEI/CIRES Coastal DEM Workshop
 :link: https://continuous-dems.github.io/workshop-coastal-coupling-2026/
-Scientists from NOAA's National Centers for Environmental Information (NCEI) and the Cooperative Institute for Research in Environmental Sciences (CIRES) lead a hands-on introduction to open-source coastal DEM workflows.[cite: 8]
+Scientists from NOAA's National Centers for Environmental Information (NCEI) and the Cooperative Institute for Research in Environmental Sciences (CIRES) lead a hands-on introduction to open-source coastal DEM workflows.
 :::
 
 :::{card} CUDEM/GEBCO-Nippon Scholars Workshop
 :link: https://continuous-dems.github.io/workshop-gebco-2026/
-This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets.[cite: 8]
+This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets.
 :::
 
 :::{card} CSSP DEM Workshop Report
 :link: /assets/images/CSSP_DEM_Workshop_Report.pdf
-This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets, held in Victoria, British Columbia, Canada.[cite: 8]
+This workshop introduced CUDEM workflows for building reproducible coastal digital elevation models from diverse topographic and bathymetric source datasets, held in Victoria, British Columbia, Canada.
 :::
 
 ::::

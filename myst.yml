@@ -1,7 +1,7 @@
 version: 1
 
 project:
-  title: "Continuous-DEMs"
+  title: "Continuous DEMs"
   description: "The Continuous DEMs Landing"
   github: "https://github.com/continuous-dems/"
   license: "MIT"
