@@ -13,9 +13,9 @@ project:
     - title: "Projects"
       children:
         - pattern: "projects/*.md"
-    - title: "Tutorials"
+    - title: "Outreach"
       children:
-        - pattern: "tutorials/*.md"
+        - pattern: "outreach/*.md"
     - title: "Examples"
       children:
         - pattern: "examples/*.md"
