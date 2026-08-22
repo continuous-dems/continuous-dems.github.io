@@ -15,7 +15,7 @@ The following projects are the Continuous-DEMs core libraries and tools, choose 
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Projects:
 
 ::::{grid} 1 2 3 4
 
