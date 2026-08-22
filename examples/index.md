@@ -10,7 +10,7 @@ Explore the capabilities of our ecosystem through practical examples, visual gal
 
 ---
 
-::::{grid} 1 1 2 2
+::::{grid} 1 2 2 4
 
 :::{grid-item-card} CRM of San Diego CA
 :link: /assets/images/san_diego_crm.png
