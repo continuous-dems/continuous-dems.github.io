@@ -57,14 +57,14 @@ A deeper dive into our community guidelines and roadmap. This compass serves as 
 Join our Zulip community chat space to participate in the discussions about DEMs and the tools we use to make them!
 :::
 
-:::{grid-item-card} 🖼️ Project Showcase
-:link: examples/index.md
-Explore the capabilities of our ecosystem through practical examples, visual galleries, and real-world products derived from Continuous DEMs tools.
-:::
+<!-- :::{grid-item-card} 🖼️ Project Showcase -->
+<!-- :link: examples/index.md -->
+<!-- Explore the capabilities of our ecosystem through practical examples, visual galleries, and real-world products derived from Continuous DEMs tools. -->
+<!-- ::: -->
 
-:::{grid-item-card} 📢 Outreach & Events
-:link: outreach/index.md
-Discover how our community connects. Find resources from past workshops, read community reports, and see where we are presenting next.
-:::
+<!-- :::{grid-item-card} 📢 Outreach & Events -->
+<!-- :link: outreach/index.md -->
+<!-- Discover how our community connects. Find resources from past workshops, read community reports, and see where we are presenting next. -->
+<!-- ::: -->
 
 :::::
