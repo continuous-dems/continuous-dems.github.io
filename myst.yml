@@ -33,8 +33,8 @@ site:
   options:
     folders: true
     style: "assets/styles/style.css"
-    favicon: assets/images/continuous_dems_favicon.ico
-    logo: assets/images/continuous_dems_logo_mini.svg
+    # favicon: assets/images/continuous_dems_favicon.ico
+    # logo: assets/images/continuous_dems_logo_mini.svg
     logo_text: "Continuous-DEMs"
     hide_footer_links: true
     hide_toc: true
