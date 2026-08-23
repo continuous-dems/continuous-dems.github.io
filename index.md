@@ -9,7 +9,7 @@
 **Welcome to the Continuous DEMs Landing!**
 ::::
 
-Continuous DEMs provides open-source tools for fetching, transforming, processing and validating Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place.
+Continuous DEMs provides open-source tools for fetching, transforming, processing and validating Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place. Here you can start your journey in building high-accuracy, vertically consistent elevation models with open-source tools that automate fetching, transforming, and validating DEMs across global datasets.
 
 The following projects are the Continuous DEMs core libraries and tools, choose a project below to learn more about it.
 
@@ -26,17 +26,17 @@ Fetch, download and process geospatial datasets.
 
 :::{grid-item-card} 🔄 Transformez
 :link: projects/transformez.md
-Transform and reproject DEMs.
+Vertically transform and reproject DEMs.
 :::
 
 :::{grid-item-card} 🌍 Globato
 :link: projects/globato.md
-Generate DEMs
+Generate seamless, multi-source, multi-resolution DEMs.
 :::
 
 :::{grid-item-card} 🏔️ Ivert
 :link: projects/ivert.md
-Validate DEMs
+Validate DEM vertical accuracy against IceSat2 measurements and detect artifacts.
 :::
 
 ::::
