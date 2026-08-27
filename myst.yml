@@ -33,6 +33,9 @@ site:
   options:
     folders: true
     style: "assets/styles/style.css"
+    static_files:
+      - assets
+      - images
     # favicon: assets/images/continuous_dems_favicon.ico
     # logo: assets/images/continuous_dems_logo_mini.svg
     logo_text: "Continuous-DEMs"
