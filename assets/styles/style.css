@@ -23,6 +23,7 @@ main, article, .prose {
     font-size: 1.1rem;
 }
 
+
 .welcome-section-layout {
     display: grid;
     place-items: center;
@@ -37,3 +38,81 @@ main, article, .prose {
     left: 50%;
     transform: translateX(-50%);
 }
+
+/* /\* Testing for `hero-content` */
+/* /\* The root container *\/ */
+/* .hero-container { */
+/*   position: relative !important; */
+/*   width: 100% !important; */
+/*   height: 350px !important; */
+/*   overflow: hidden !important; */
+/*   border-radius: 8px !important; */
+/*   margin-bottom: 2rem !important; */
+/*   display: block !important; /\* Forces block context instead of grid/flex alignment *\/ */
+/*   background-color: #1a1a1a !important; */
+/* } */
+
+/* /\* Force MyST image wrappers into the absolute background layer *\/ */
+/* .hero-container > span, */
+/* .hero-container > figure, */
+/* .hero-container div[class*="image"], */
+/* .hero-container img { */
+/*   position: absolute !important; */
+/*   inset: 0 !important; */
+/*   width: 100% !important; */
+/*   height: 100% !important; */
+/*   margin: 0 !important; */
+/*   padding: 0 !important; */
+/*   z-index: 1 !important; */
+/*   object-fit: cover !important; */
+/* } */
+
+/* /\* Create the dark visual contrast mask layer *\/ */
+/* .hero-container::after { */
+/*   content: ''; */
+/*   position: absolute !important; */
+/*   inset: 0 !important; */
+/*   background: rgba(0, 0, 0, 0.15) !important; */
+/*   z-index: 2 !important; */
+/*   pointer-events: none !important; */
+/* } */
+
+/* /\* Force the Text Container to stretch over the image layer *\/ */
+/* .hero-content { */
+/*   position: absolute !important; */
+/*   inset: 0 !important; /\* Spans top to bottom, left to right *\/ */
+/*   z-index: 3 !important; */
+
+/*   /\* Flexbox positioning inside the text layer for centering text blocks *\/ */
+/*   display: flex !important; */
+/*   flex-direction: column !important; */
+/*   align-items: center !important; */
+/*   justify-content: center !important; */
+
+/*   text-align: left !important; */
+/*   padding: 2.5rem !important; */
+/*   background: transparent !important; /\* Strips the default black block background color *\/ */
+/*   box-sizing: border-box !important; */
+/* } */
+
+
+/* /\* Enforce high-visibility formatting on text nodes inside the book-theme grid *\/ */
+/* .hero-content h2 { */
+/*   color: #ffffff !important; */
+/*   font-size: 2.6rem !important; /\* Slightly smaller than H1, clean and impactful *\/ */
+/*   font-weight: 700 !important; */
+/*   margin-top: 0 !important; */
+/*   margin-bottom: 0.5rem !important; */
+/*   line-height: 1.2 !important; */
+/*   border-bottom: none !important; /\* Strips out any book-theme accent lines *\/ */
+
+/*   /\* Deep text shadow for solid readability against any background graphic *\/ */
+/*   text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8) !important; */
+/* } */
+
+/* .hero-content p { */
+/*     color: #ffffff !important; */
+/*     font-size: 1.3rem; */
+/*     margin: 0.4rem 0 !important; */
+/*     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7) !important; */
+/* } */
