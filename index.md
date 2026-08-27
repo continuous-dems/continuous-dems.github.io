@@ -13,11 +13,11 @@
 
 Continuous DEMs provides open-source tools for fetching, transforming, processing and validating Digital Elevation Models (DEMs). We are building a collaborative community dedicated to high-accuracy elevation workflows. Whether you need a drop-in solution for your data pipeline or want to contribute to the future of elevation modeling, you are in the right place. Here you can start your journey in building high-accuracy, vertically consistent elevation models with open-source tools that automate fetching, transforming, and validating DEMs across global datasets.
 
-The following projects are the Continuous DEMs core libraries and tools, choose a project below to learn more, or read our **[White Paper (DOI: 10.5281/zenodo.22132728)](https://doi.org/10.5281/zenodo.22132728)** for a deep dive into the ecosystem's architecture.
+The following projects are the Continuous DEMs core libraries and tools, choose a project below to learn more.
 
-<!-- :::{note} Read Our White Paper -->
-<!-- Learn about the scientific foundation, architecture, and NSF POSE Phase I transition behind our ecosystem in our newly published white paper: **[From CUDEM to Continuous DEMs](https://zenodo.org/records/22132728)**. -->
-<!-- ::: -->
+:::{note} Read Our White Paper
+Learn about the scientific foundation, architecture, and NSF POSE Phase I transition behind our ecosystem in our newly published white paper: **[From CUDEM to Continuous DEMs](https://zenodo.org/records/22132728)**.
+:::
 
 ---
 
