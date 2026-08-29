@@ -1,0 +1,36 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 300 200"
+    width="300"
+    height="200"
+    role="img"
+    aria-labelledby="title desc">
+  <title id="title">Ivert colored logo</title>
+  <desc id="desc">Six rounded terrain-colored tiles crossed by diagonal scan lines.</desc>
+  <defs>>
+    <mask id="beams" maskUnits="userSpaceOnUse" x="0" y="0" width="300" height="200">
+      <rect width="300" height="200" fill="white"/>
+        <path
+	    style="fill:#000000;stroke:#000000;stroke-width:9;stroke-linecap:square"
+	    d="M 300,0 12,200"
+	    id="path613" />
+	<path
+	    style="fill:#000000;stroke:#000000;stroke-width:9;stroke-linecap:square"
+	    d="M 300,0 0,150"
+	    id="path617" />
+	<path
+	    style="fill:#000000;stroke:#000000;stroke-width:9;stroke-linecap:square"
+	    d="M 300,0 94,200"
+	    id="path619" />
+    </mask>
+  </defs>
+
+  <g mask="url(#beams)">
+    <rect x="4" y="4" width="92" height="92" rx="16" fill="#2D3746"/>
+    <rect x="104" y="4" width="92" height="92" rx="16" fill="#828D98"/>
+    <rect x="204" y="4" width="92" height="92" rx="16" fill="#4A586E"/>
+    <rect x="4" y="104" width="92" height="92" rx="16" fill="#77A3C8"/>
+    <rect x="104" y="104" width="92" height="92" rx="16" fill="#B5C18E "/>
+    <rect x="204" y="104" width="92" height="92" rx="16" fill="#A88572"/>
+  </g>
+</svg>
