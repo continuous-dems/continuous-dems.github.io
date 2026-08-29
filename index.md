@@ -21,30 +21,28 @@ Learn about the scientific foundation, architecture, and NSF POSE Phase I transi
 
 ---
 
-## 🛠️ Projects:
-
 ::::{grid} 1 2 3 4
 
 :::{grid-item-card}
-:header: 📥 Fetchez
+:header: ![](/assets/images/fetchez-logo.svg) fetchez
 :link: projects/fetchez.md
 Fetch, download and process geospatial datasets.
 :::
 
 :::{grid-item-card}
-:header: 🔄 Transformez
+:header: ![](/assets/images/transformez-logo.svg) transformez
 :link: projects/transformez.md
 Vertically transform and reproject DEMs.
 :::
 
 :::{grid-item-card}
-:header: 🌍 Globato
+:header: ![](/assets/images/globato-logo.svg) globato
 :link: projects/globato.md
 Generate seamless, multi-source, multi-resolution DEMs.
 :::
 
 :::{grid-item-card}
-:header: 🛰️ Ivert
+:header: ![](/assets/images/ivert-logo.svg) ivert
 :link: projects/ivert.md
 Validate DEM vertical accuracy against IceSat2 measurements and detect artifacts.
 :::
@@ -52,8 +50,6 @@ Validate DEM vertical accuracy against IceSat2 measurements and detect artifacts
 ::::
 
 ---
-
-## 🌐 Community:
 
 ::::{grid} 2
 :::{grid-item-card}

@@ -1,0 +1,24 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 300 200"
+    width="300"
+    height="200"
+    role="img"
+    aria-labelledby="title desc">
+  <title id="title">Transformez colored logo</title>
+  <desc id="desc">Six rounded raster tiles with a transparent wave cutout, representing a coastal vertical datum transformation.</desc>
+  <defs>
+    <mask id="wave-cutout">
+      <rect width="300" height="200" fill="white"/>
+      <path d="M-10 86 C28 88 51 71 76 59 C97 49 116 51 135 63 C154 75 166 94 179 113 C194 135 212 143 233 134 C253 125 270 107 310 91 L310 122 C274 137 255 153 236 160 C210 170 185 158 167 137 C149 116 136 97 114 88 C92 80 73 87 54 97 C34 108 13 114 -10 113 Z" fill="black"/>
+    </mask>
+  </defs>
+  <g mask="url(#wave-cutout)">
+    <rect x="4" y="4" width="92" height="92" rx="16" fill="#F4F1E8"/>
+    <rect x="104" y="4" width="92" height="92" rx="16" fill="#2D8DD6"/>
+    <rect x="204" y="4" width="92" height="92" rx="16" fill="#B8815F"/>
+    <rect x="4" y="104" width="92" height="92" rx="16" fill="#123E67"/>
+    <rect x="104" y="104" width="92" height="92" rx="16" fill="#159CC7"/>
+    <rect x="204" y="104" width="92" height="92" rx="16" fill="#58AF49"/>
+  </g>
+</svg>
