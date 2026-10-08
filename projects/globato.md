@@ -55,7 +55,7 @@ Built on top of the `fetchez` (orchestration) and `transformez` (horizontal and 
 ---
 
 ```console
-$ globato build -R loc:"San Diego" crm-bathy-topo -E 1s -O san_diego --shared-cache sd_data -D sd_crm
+globato build -R loc:"San diego, ca" -E 1s -O san_diego -P epsg:4326+5703 -X 10:6 --shared-cache sd_data --outdir sd_dem crm-bathy-topo
 ```
 
 ![San Diego 1 Arc-Second CRM](/assets/images/san_diego_crm.png)
