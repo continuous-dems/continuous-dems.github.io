@@ -12,7 +12,7 @@
 ::::{grid} 1 2 3 5
 
 :::{card}
-:link: https://github.com/continuous-dems/ivert
+:link: https://ivert.readthedocs.io
 
 ![rtd](/assets/images/logo-dark.svg)
 Documentation
